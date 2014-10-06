@@ -1,0 +1,34 @@
+2014-10-06 13:50:18 [INFO] Starting minecraft server version 1.6.4
+2014-10-06 13:50:18 [INFO] Loading properties
+2014-10-06 13:50:18 [INFO] Default game type: CREATIVE
+2014-10-06 13:50:18 [INFO] Generating keypair
+2014-10-06 13:50:18 [INFO] Starting Minecraft server on localhost:1234
+2014-10-06 13:50:18 [INFO] This server is running CraftBukkit version git-Bukkit-1.6.4-R2.0-b2918jnks (MC: 1.6.4) (Implementing API version 1.6.4-R2.0)
+2014-10-06 13:50:18 [INFO] [Vault] Loading Vault v1.4.1-b436
+2014-10-06 13:50:18 [INFO] [Heroes] Loading Heroes v1.5.5.4-SNAPSHOT-b66
+2014-10-06 13:50:18 [INFO] [Vault] Enabling Vault v1.4.1-b436
+2014-10-06 13:50:18 [INFO] [Vault] [Permission] SuperPermissions loaded as backup permission system.
+2014-10-06 13:50:19 [INFO] [Vault] Enabled Version 1.4.1-b436
+2014-10-06 13:50:19 [WARNING] **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2014-10-06 13:50:19 [WARNING] The server will make no attempt to authenticate usernames. Beware.
+2014-10-06 13:50:19 [WARNING] While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2014-10-06 13:50:19 [WARNING] To change this, set "online-mode" to "true" in the server.properties file.
+2014-10-06 13:50:19 [INFO] Preparing level "TestServer"
+2014-10-06 13:50:19 [WARNING] Could not get information about this CraftBukkit version; perhaps you are running a custom one?: IOException
+2014-10-06 13:50:19 [WARNING] Could not get latest artifact information: IOException
+2014-10-06 13:50:19 [INFO] Preparing start region for level 0 (Seed: 2339789467349571554)
+2014-10-06 13:50:20 [INFO] Preparing spawn area: 10%
+2014-10-06 13:50:21 [INFO] Preparing spawn area: 27%
+2014-10-06 13:50:22 [INFO] Preparing spawn area: 52%
+2014-10-06 13:50:23 [INFO] Preparing spawn area: 71%
+2014-10-06 13:50:24 [INFO] Preparing spawn area: 97%
+2014-10-06 13:50:24 [INFO] Preparing start region for level 1 (Seed: 2339789467349571554)
+2014-10-06 13:50:24 [INFO] Preparing start region for level 2 (Seed: 2339789467349571554)
+2014-10-06 13:50:24 [INFO] [Heroes] Enabling Heroes v1.5.5.4-SNAPSHOT-b66
+2014-10-06 13:50:24 [INFO] [Heroes] You are running Heroes on git-Bukkit-1.6.4-R2.0-b2918jnks (MC: 1.6.4)
+2014-10-06 13:50:24 [INFO] [Heroes] The detected server mod is BUKKIT. Heroes will use BUKKIT compatibility!
+2014-10-06 13:50:24 [SEVERE] [Heroes] You are attempting to load Heroes on version v1_6_R3 which is not supported!
+2014-10-06 13:50:24 [INFO] [Heroes] Disabling Heroes v1.5.5.4-SNAPSHOT-b66
+2014-10-06 13:50:24 [INFO] [Heroes]  version 1.5.5.4-SNAPSHOT-b66 is disabled!
+2014-10-06 13:50:24 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2014-10-06 13:50:24 [INFO] Done (5,933s)! For help, type "help" or "?"
