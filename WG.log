@@ -1,0 +1,18 @@
+2014-10-09 00:31:49 [SEVERE] You need to update your database to the latest version.
+		Please see region_storage_update_20110325.sql
+2014-10-09 00:31:49 [SEVERE] 	at com.sk89q.worldguard.protection.databases.MySQLDatabase.<init>(MySQLDatabase.java:79)
+2014-10-09 00:31:49 [SEVERE] 	at com.sk89q.worldguard.protection.GlobalRegionManager.create(GlobalRegionManager.java:155)
+2014-10-09 00:31:49 [SEVERE] 	at com.sk89q.worldguard.protection.GlobalRegionManager.load(GlobalRegionManager.java:130)
+2014-10-09 00:31:49 [SEVERE] 	at com.sk89q.worldguard.protection.GlobalRegionManager.preload(GlobalRegionManager.java:194)
+2014-10-09 00:31:49 [SEVERE] 	at com.sk89q.worldguard.bukkit.WorldGuardPlugin.onEnable(WorldGuardPlugin.java:160)
+2014-10-09 00:31:49 [SEVERE] 	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:217)
+2014-10-09 00:31:49 [SEVERE] 	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:457)
+2014-10-09 00:31:49 [SEVERE] 	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:382)
+2014-10-09 00:31:49 [SEVERE] 	at org.bukkit.craftbukkit.v1_6_R3.CraftServer.loadPlugin(CraftServer.java:288)
+2014-10-09 00:31:49 [SEVERE] 	at org.bukkit.craftbukkit.v1_6_R3.CraftServer.enablePlugins(CraftServer.java:270)
+2014-10-09 00:31:49 [SEVERE] 	at net.minecraft.server.v1_6_R3.MinecraftServer.l(MinecraftServer.java:321)
+2014-10-09 00:31:49 [SEVERE] 	at net.minecraft.server.v1_6_R3.MinecraftServer.f(MinecraftServer.java:298)
+2014-10-09 00:31:49 [SEVERE] 	at net.minecraft.server.v1_6_R3.MinecraftServer.a(MinecraftServer.java:258)
+2014-10-09 00:31:49 [SEVERE] 	at net.minecraft.server.v1_6_R3.DedicatedServer.init(DedicatedServer.java:165)
+2014-10-09 00:31:49 [SEVERE] 	at net.minecraft.server.v1_6_R3.MinecraftServer.run(MinecraftServer.java:399)
+2014-10-09 00:31:49 [SEVERE] 	at net.minecraft.server.v1_6_R3.ThreadServerApplication.run(SourceFile:583)
